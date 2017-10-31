@@ -1,0 +1,5 @@
+I have used before test method to lunch the  browser for all the three test cases .
+After clicking on sign in button New farme is coming so i Switch to frame before clicking submit buttone for login.
+In the flight booking for destination id was not working so i used x path (line no 44 in ).
+For seleting the date from the calender i added the line no 57 for flight booking class .
+in the hotel booking class to move to next tab i have used keys.tab(line no 53).
